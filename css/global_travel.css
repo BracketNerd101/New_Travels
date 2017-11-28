@@ -1,0 +1,174 @@
+body {
+
+
+
+}
+
+/*-------------------------
+-----------------------
+
+font-family: 'Poiret One', cursive;
+font-family: 'Teko', sans-serif;
+font-family: 'Yantramanav', sans-serif;
+
+-----------------------
+---------------------------*/
+
+/*background: #40E0D0;  /* fallback for old browsers *
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  / Chrome 10-25, Safari 5.1-6 *
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+.orange_text_gradient {
+
+background: #00d2ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #928DAB, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #928DAB, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+
+}
+
+.btn_flat_styles {
+     border-radius: 0px;
+
+}
+
+.future_spacing_bg {
+
+  height: 50rem;
+  width: 100%;
+  margin-bottom: 10rem;
+
+
+}
+
+.future_title {
+
+
+margin-top: 15rem;
+margin-bottom: 3rem;
+font-family: 'Poiret One', cursive;
+font-size: 7.5rem;
+
+}
+
+.bg_diagnol_style {
+
+  background: linear-gradient(to right bottom, #CFDEF3 50%, #E0EAFC 50%);
+
+
+}
+
+.bottom_future_header{
+  height: inherit;
+}
+
+#text_link_disabled {
+ text-decoration: none;
+
+}
+
+
+
+.jump_sea {
+
+  background-size: cover;
+  background-image: url(../SEA/sea003.jpg);
+  height: 45rem;
+  width: 100%;
+  font-size: 3rem;
+  opacity: 1;
+  transition-duration: 0.4s;
+
+
+}
+
+.jump_sea:hover {
+
+  background-size: cover;
+  background-image: url(../SEA/sea003.jpg);
+  height: 45rem;
+  width: 100%;
+  font-size: 3rem;
+  opacity: 0.8;
+  transition-duration: 0.4s;
+
+
+}
+
+.jump_text{
+
+  font-size: 4.5rem;
+  font-family: 'Teko', sans-serif;
+  margin-top: 20rem;
+
+}
+
+.jump_pdx {
+
+  background-size: cover;
+  background-image: url(../img/cannon_beach.jpg);
+  height: 45rem;
+  width: 100%;
+  font-size: 3rem;
+  opacity: 1;
+  transition-duration: 0.4s;
+
+
+}
+
+
+
+.jump_pdx:hover {
+
+  background-size: cover;
+  background-image: url(../img/cannon_beach.jpg);
+  height: 45rem;
+  width: 100%;
+  font-size: 3rem;
+  opacity: 0.8;
+  transition-duration: 0.4s;
+
+
+}
+
+.jump_bna {
+
+  background-size: cover;
+  background-image: url(../img/nashville005.jpg);
+  height: 45rem;
+  width: 100%;
+  font-size: 3rem;
+  opacity: 1;
+  transition-duration: 0.4s;
+
+
+}
+
+.jump_bna:hover {
+
+  background-size: cover;
+  background-image: url(../img/nashville005.jpg);
+  height: 45rem;
+  width: 100%;
+  font-size: 3rem;
+  opacity: 0.8;
+  transition-duration: 0.4s;
+
+
+}
+
+
+.footer_styles {
+  height: inherit;
+
+}
+
+.footer_text_styles {
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+    font-family: 'Teko', sans-serif;
+}
