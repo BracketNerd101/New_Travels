@@ -26,6 +26,10 @@ background: linear-gradient(to right, #928DAB, #00d2ff); /* W3C, IE 10+/ Edge, F
 
 }
 
+.wow {
+    visibility: hidden;
+}
+
 .btn_flat_styles {
      border-radius: 0px;
 
@@ -148,4 +152,13 @@ font-size: 7.5rem;
     margin-top: 7rem;
     margin-bottom: 7rem;
     font-family: 'Teko', sans-serif;
+}
+
+
+a {
+    transition: all 4.3s ease-out;
+    transition-property: all;
+    transition-duration: 6.8s;
+    transition-timing-function: ease-out;
+    transition-delay: initial;
 }
