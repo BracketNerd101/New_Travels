@@ -1,0 +1,175 @@
+
+
+/*-------------------------
+-----------------------
+
+font-family: 'Poiret One', cursive;
+font-family: 'Teko', sans-serif;
+font-family: 'Yantramanav', sans-serif;
+
+-----------------------
+---------------------------*/
+
+/*background: #40E0D0;  /* fallback for old browsers *
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  / Chrome 10-25, Safari 5.1-6 *
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+.navbar-toggler {
+    border: none;
+
+}
+
+.future_logo_text {
+
+  font-size: 2.1rem;
+  font-family: 'Teko', sans-serif;
+  /*background: -webkit-linear-gradient(#f7b733, #fc4a1a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;*/
+  color: #f7b733;
+
+}
+
+.portland_banner_text {
+
+   font-family: 'Poiret One', cursive;
+   font-size: 8rem;
+   margin-top: 15rem;
+
+}
+.intro_pic_styles {
+
+  margin-top: auto;
+  margin-bottom: 6rem;
+}
+
+.pdx_banner {
+
+  background-size: cover;
+  background-image: url(../img/cannon_beach.jpg);
+  margin-top: 3rem;
+  width: 100%;
+  height: 55rem;
+
+}
+
+.small_pdx_image01 {
+
+  background-size: cover;
+  background-image: url(../img/rise003.jpg);
+  height: 20rem;
+  width: 100%;
+  box-shadow: 3px 3px 1px  #cccccc;
+
+}
+
+.small_pdx_image02 {
+
+  background-size: cover;
+  background-image: url(../img/rise002.jpg);
+  height: 20rem;
+  width: 100%;
+
+  box-shadow: 3px 3px 1px  #cccccc;
+
+
+}
+
+.small_pdx_image03 {
+
+  background-size: cover;
+  background-image: url(../img/rise001.jpg);
+  height: 20rem;
+  width: 100%;
+
+  box-shadow: 3px 3px 1px  #cccccc;
+
+
+}
+
+.pdx_section_title {
+
+   font-family: 'Teko', sans-serif;
+   font-size: 10rem;
+   /*color: #36D1DC;*/
+
+}
+
+.pdx_observation {
+
+  height: inherit;
+  padding-top: 6.2rem;
+  padding-bottom: 6.2rem;
+  background: #36D1DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.list_type_styles {
+
+  font-size: 1rem;
+  font-family: 'Poiret One', cursive;
+}
+
+/*---------- Apartment pics  ------------------    */
+
+.apartment_section_title{
+
+  font-family: 'Poiret One', cursive;
+  font-size: 10rem;
+  color: #36D1DC;
+  margin-top: 8.5rem;
+  margin-bottom: 8.5rem;
+
+}
+
+.pdx_apt_001 {
+  background-size: cover;
+  background-image: url(../img/rise001.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.pdx_apt_002 {
+  background-size: cover;
+  background-image: url(../img/rise002.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+.pdx_apt_003 {
+  background-size: cover;
+  background-image: url(../img/rise003.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.pdx_apt_004 {
+  background-size: cover;
+  background-image: url(../img/pdx_jumbo.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.pdx_apt_005 {
+  background-size: cover;
+  background-image: url(../img/pearl_02.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.pdx_apt_006 {
+  background-size: cover;
+  background-image: url(../img/red_pdx.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+/*---------- Apartment pics  ------------------    */
