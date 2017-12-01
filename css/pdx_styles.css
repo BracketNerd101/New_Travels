@@ -24,10 +24,10 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 
   font-size: 2.1rem;
   font-family: 'Teko', sans-serif;
-  /*background: -webkit-linear-gradient(#f7b733, #fc4a1a);
+  background: -webkit-linear-gradient(#237A57, #093028);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;*/
-  color: #f7b733;
+  -webkit-text-fill-color: transparent;
+
 
 }
 

@@ -89,7 +89,7 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 .sea_section_title {
 
    font-family: 'Teko', sans-serif;
-   font-size: 7rem;
+   font-size: 4rem;
    background: -webkit-linear-gradient(#F7971E, #FFD200);
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
