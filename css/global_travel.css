@@ -46,10 +46,12 @@ a {
 }
 
 .future_spacing_bg {
-
-  height: 50rem;
+  background-size: cover;
+  background-image: url(../img/world.jpg);
+  color: #ffffff;
+  height: 65rem;
   width: 100%;
-  margin-bottom: 10rem;
+  margin-bottom: auto;
 
 }
 
@@ -78,7 +80,7 @@ font-size: 7.5rem;
 .jump_sea {
 
   background-size: cover;
-  background-image: url(../SEA/sea003.jpg);
+  background-image: url(../img/sea003.png);
   height: 55rem;
   width: 100%;
   font-size: 3rem;
@@ -90,7 +92,7 @@ font-size: 7.5rem;
 .jump_sea:hover {
 
   background-size: cover;
-  background-image: url(../SEA/sea003.jpg);
+  background-image: url(../img/sea003.png);
   height: 55rem;
   width: 100%;
   font-size: 3rem;
@@ -110,7 +112,7 @@ font-size: 7.5rem;
 .jump_pdx {
 
   background-size: cover;
-  background-image: url(../img/cannon_beach.jpg);
+  background-image: url(../img/cannon_beach.png);
   height: 55rem;
   width: 100%;
   font-size: 3rem;
@@ -122,7 +124,7 @@ font-size: 7.5rem;
 .jump_pdx:hover {
 
   background-size: cover;
-  background-image: url(../img/cannon_beach.jpg);
+  background-image: url(../img/cannon_beach.png);
   height: 55rem;
   width: 100%;
   font-size: 3rem;
@@ -133,7 +135,7 @@ font-size: 7.5rem;
 .jump_bna {
 
   background-size: cover;
-  background-image: url(../img/nashville005.jpg);
+  background-image: url(../img/nashville005.png);
   height: 55rem;
   width: 100%;
   font-size: 3rem;
@@ -145,7 +147,7 @@ font-size: 7.5rem;
 .jump_bna:hover {
 
   background-size: cover;
-  background-image: url(../img/nashville005.jpg);
+  background-image: url(../img/nashville005.png);
   height: 55rem;
   width: 100%;
   font-size: 3rem;
