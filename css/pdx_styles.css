@@ -113,7 +113,7 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
   font-family: 'Poiret One', cursive;
 }
 
-/*---------- Apartment pics  ------------------    */
+/*---------- Apartment pics  ------------------------------- */
 
 .apartment_section_title{
 
@@ -128,7 +128,7 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 .pdx_apt_intro {
   background-size: cover;
   background-image: url(../img/cannon_beach02.jpg);
-  height: 50rem;
+  height: 45rem;
   width: 100%;
 
 }
@@ -188,4 +188,4 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 
 }
 
-/*---------- Apartment pics  ------------------    */
+/*---------- Apartment pics  -------------------------- */

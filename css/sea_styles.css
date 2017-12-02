@@ -103,9 +103,19 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
   height: inherit;
   padding-top: 6.2rem;
   padding-bottom: 6.2rem;
-  /*background: #8e9eab;  /* fallback for old browsers
-  background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6
-  background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #F7971E;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFD200, #F7971E);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.living_section_title {
+
+  font-family: 'Poiret One', cursive;
+  font-size: 5rem;
+  margin-top: auto;
+  margin-bottom: 1.5rem;
 
 }
 
@@ -113,6 +123,7 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 .list_type_styles {
 
   font-size: 1.3rem;
+  margin-top: 1.5rem;
   font-family: 'Poiret One', cursive;
 }
 
