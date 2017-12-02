@@ -102,8 +102,8 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
   padding-top: 6.2rem;
   padding-bottom: 6.2rem;
   background: #36D1DC;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
@@ -122,6 +122,22 @@ background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, F
   color: #36D1DC;
   margin-top: 8.5rem;
   margin-bottom: 8.5rem;
+
+}
+
+.pdx_apt_intro {
+  background-size: cover;
+  background-image: url(../img/cannon_beach02.jpg);
+  height: 50rem;
+  width: 100%;
+
+}
+
+.pdx_apt_intro2 {
+  background-size: cover;
+  background-image: url(../img/adventure.jpg);
+  height: 50rem;
+  width: 100%;
 
 }
 

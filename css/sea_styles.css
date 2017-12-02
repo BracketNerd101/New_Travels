@@ -90,9 +90,9 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 
    font-family: 'Teko', sans-serif;
    font-size: 4rem;
-   background: -webkit-linear-gradient(#F7971E, #FFD200);
+   /*background: -webkit-linear-gradient(#F7971E, #FFD200);
    -webkit-background-clip: text;
-   -webkit-text-fill-color: transparent;
+   -webkit-text-fill-color: transparent;*/
 
 
 
@@ -113,12 +113,12 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 .list_type_styles {
 
   font-size: 1.3rem;
-  font-family: 'Teko', cursive;
+  font-family: 'Poiret One', cursive;
 }
 
 /*---------- Apartment pics  ------------------    */
 
-.apartment_section_title{
+.apartment_section_title {
 
   font-family: 'Poiret One', cursive;
   font-size: 10rem;
@@ -128,48 +128,87 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 
 }
 
-.pdx_apt_001 {
+.sea_apt_intro {
   background-size: cover;
-  background-image: url(../img/rise001.jpg);
+  background-image: url(../SEA/skyline.jpg);
   height: 40rem;
   width: 100%;
 
 }
 
-.pdx_apt_002 {
+.sea_apt_001 {
   background-size: cover;
-  background-image: url(../img/rise002.jpg);
-  height: 40rem;
-  width: 100%;
-
-}
-.pdx_apt_003 {
-  background-size: cover;
-  background-image: url(../img/rise003.jpg);
+  background-image: url(../SEA/seattle002.jpg);
   height: 40rem;
   width: 100%;
 
 }
 
-.pdx_apt_004 {
+.sea_apt_002 {
   background-size: cover;
-  background-image: url(../img/pdx_jumbo.jpg);
+  background-image: url(../SEA/seattle003.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+.sea_apt_003 {
+  background-size: cover;
+  background-image: url(../SEA/seattle004.jpg);
   height: 40rem;
   width: 100%;
 
 }
 
-.pdx_apt_005 {
+.sea_apt_004 {
   background-size: cover;
-  background-image: url(../img/pearl_02.jpg);
+  background-image: url(../SEA/seattle005.jpg);
   height: 40rem;
   width: 100%;
 
 }
 
-.pdx_apt_006 {
+.sea_apt_005 {
   background-size: cover;
-  background-image: url(../img/red_pdx.jpg);
+  background-image: url(../SEA/seattle006.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.sea_apt_006 {
+  background-size: cover;
+  background-image: url(../SEA/seattle007.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.sea_apt_007 {
+  background-size: cover;
+  background-image: url(../SEA/seattle008.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.sea_apt_008 {
+  background-size: cover;
+  background-image: url(../SEA/seattle009.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.sea_apt_009 {
+  background-size: cover;
+  background-image: url(../SEA/seattle010.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+.sea_apt_010 {
+  background-size: cover;
+  background-image: url(../SEA/seattle003.jpg);
   height: 40rem;
   width: 100%;
 
