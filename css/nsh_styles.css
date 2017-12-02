@@ -127,10 +127,10 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 
 }
 
-.pdx_apt_intro{
+.nsh_apt_intro{
   background-size: cover;
   background-image: url(../img/nashville002.jpg);
-  height: 40rem;
+  height: 55rem;
   width: 100%;
 
 }
