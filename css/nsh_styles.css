@@ -135,56 +135,56 @@ background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+
 
 }
 
-.pdx_apt_001 {
+.nsh_apt_001 {
   background-size: cover;
-  background-image: url(../img/rise001.jpg);
+  background-image: url(../TN/rise001.jpg);
   height: 40rem;
   width: 100%;
 
 }
 
-.pdx_apt_001 {
+.nsh_apt_001 {
   background-size: cover;
-  background-image: url(../img/rise001.jpg);
+  background-image: url(../TN/nashville007.jpg);
   height: 40rem;
   width: 100%;
 
 }
 
-.pdx_apt_002 {
+.nsh_apt_002 {
   background-size: cover;
-  background-image: url(../img/rise002.jpg);
+  background-image: url(../TN/nashville008.jpg);
   height: 40rem;
   width: 100%;
 
 }
-.pdx_apt_003 {
+.nsh_apt_003 {
   background-size: cover;
-  background-image: url(../img/rise003.jpg);
-  height: 40rem;
-  width: 100%;
-
-}
-
-.pdx_apt_004 {
-  background-size: cover;
-  background-image: url(../img/pdx_jumbo.jpg);
+  background-image: url(../TN/nashville009.jpg);
   height: 40rem;
   width: 100%;
 
 }
 
-.pdx_apt_005 {
+.nsh_apt_004 {
   background-size: cover;
-  background-image: url(../img/pearl_02.jpg);
+  background-image: url(../TN/nashville0077.jpg);
   height: 40rem;
   width: 100%;
 
 }
 
-.pdx_apt_006 {
+.nsh_apt_005 {
   background-size: cover;
-  background-image: url(../img/red_pdx.jpg);
+  background-image: url(../TN/nashville0088.jpg);
+  height: 40rem;
+  width: 100%;
+
+}
+
+.nsh_apt_006 {
+  background-size: cover;
+  background-image: url(../TN/red_pdx.jpg);
   height: 40rem;
   width: 100%;
 
